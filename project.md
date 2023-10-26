@@ -1,4 +1,4 @@
-# CDR-Project
+# Catalog-Project
  
 - [ ] Backend code with documentation
 - [x] Requirement Specifications
