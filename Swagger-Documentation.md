@@ -401,8 +401,6 @@
         }
         ```
 
-This Markdown representation outlines the specified path, request body, and responses. If you have more requests or questions, feel free to let me know!
-
 
 
 
@@ -437,7 +435,6 @@ This Markdown representation outlines the specified path, request body, and resp
         }
         ```
 
-Feel free to ask if you have any more paths to convert or any other questions!
 
 
 
@@ -478,7 +475,6 @@ Feel free to ask if you have any more paths to convert or any other questions!
         }
         ```
 
-Feel free to ask if you have more paths or any other questions!
 
 
 
@@ -516,7 +512,7 @@ Feel free to ask if you have more paths or any other questions!
         }
         ```
 
-If you have more paths or need further adjustments, just let me know!
+
 
 
 
@@ -544,7 +540,6 @@ If you have more paths or need further adjustments, just let me know!
         }
         ```
 
-Feel free to ask if you have more paths or need further modifications!
 
 
 
@@ -587,7 +582,6 @@ Feel free to ask if you have more paths or need further modifications!
         }
         ```
 
-Let me know if there's anything else you'd like!
 
 
 
@@ -634,7 +628,6 @@ Let me know if there's anything else you'd like!
   - 200 OK
     - Description: OK
 
-Let me know if there's anything else!
 
 
 
@@ -668,7 +661,7 @@ Let me know if there's anything else!
         }
         ```
 
-Let me know if you need anything else!
+
 
 
 
@@ -708,7 +701,7 @@ Let me know if you need anything else!
         }
         ```
 
-Feel free to reach out if you have any more requests!
+
 
 
 
